@@ -1,6 +1,10 @@
 team: oz_service
 
+<<<<<<< HEAD
 coach: 영조
+=======
+coach: 지성
+>>>>>>> 8760302 (service 코치 변경)
 
 leader: 희은
 
